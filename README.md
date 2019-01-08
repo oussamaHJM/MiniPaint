@@ -1,2 +1,7 @@
 # MiniPaint
-MiniPaint Usig java MVC
+MiniPaint Using java MVC
+Featers :
+  -create diffretshapes.
+  -resize shapes.
+  -History(undo redo).
+  -and more
